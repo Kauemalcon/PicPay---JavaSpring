@@ -1,4 +1,4 @@
-package com.example.picpay.domain.repository;
+package com.example.picpay.repository;
 
 import com.example.picpay.domain.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
